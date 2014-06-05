@@ -1,0 +1,7 @@
+# Ignore these:
+/test/*
+/training_set/*
+*.pyc
+
+# But not these
+!*.gitkeep
